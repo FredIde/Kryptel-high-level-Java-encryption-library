@@ -117,7 +117,7 @@ final class NullCompressor implements IKryptelComponent, IComponentState {
   	}
 
   	public void SetScheme(byte scheme) throws Exception {
-  		if (scheme != 0) throw new Exception(Message.Get(Message.Code.InvalidArg));
+  		if (scheme != 0 && scheme != 1) throw new Exception(Message.Get(Message.Code.InvalidArg));
   	}
   	
   	public CompressorInfo GetInfo() {
