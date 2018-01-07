@@ -1,5 +1,6 @@
 
-Kryptel / Silver Key encryption engine.
+KRYPTEL / SILVER KEY ENCRYPTION ENGINE
+--------------------------------------
 
 This is a Java version of the encryption engine used in commercial and free
 versions of Kryptel and Silver Key (https://www.kryptel.com)
