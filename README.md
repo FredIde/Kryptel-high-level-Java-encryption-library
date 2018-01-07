@@ -19,15 +19,13 @@ KRYPTEL
 
 Kryptel storage is encrypted storage that can be used
 
-1) to store files and directories (as described in
+1) to store files and directories as described in File Encryption example
 https://www.kryptel.com/articles/developers/java/storage.file_encryption.php
-File Encryption example),
 
 or
 
-2) as generic encrypted storage for non-file objects (see
+2) as generic encrypted storage for non-file objects, see Password Keeper example
 https://www.kryptel.com/articles/developers/java/storage.password_storage.php
-Password Keeper example).
 
 
 SILVER KEY
